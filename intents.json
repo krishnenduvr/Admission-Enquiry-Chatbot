@@ -1,0 +1,2635 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "hloo", "hi", "Hello", "hello", "Hey", "hey", "hii", "Good morning", "good morning", "Good evening", "good evening"],
+
+      "responses": [
+        "Hello! Welcome to Nesamony Memorial Christian College. How can I help you today?"
+      ]
+    },
+    {
+  "tag": "goodbye",
+  "patterns": ["bye", "goodbye", "see you", "see you later", "take care", "catch you later"],
+  "responses": [
+    "👋 Goodbye! Have a great day.",
+    "See you soon!",
+    "Take care, looking forward to chatting again.",
+    "Bye! Wishing you all the best."
+  ]
+},
+    {
+      "tag": "about",
+      "patterns": [
+        "Tell me about college",
+        "Tell me about NMCC",
+        "nesamony memorial christian college",
+        "About the college",
+        "College details",
+        "Information about NMCC",
+        "Overview of the college"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College is a prestigious academic and research institution that caters to the students’ academic and personal development, by providing a highly professional and open-minded education rooted in ethics and values. The college, sprawled in a lush green campus, has an excellent infrastructure, library, indoor-outdoor stadium, hostel and internet facilities. The college offers science, humanities, commerce and management disciplines with well-equipped department libraries and classrooms. We have dedicated and erudite faculty members who help in grooming the students to become world-class citizens in this globally competitive world."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How can I contact Nesamony Memorial Christian College Campus?",
+        "Give me contact details",
+        "Phone number?",
+        "help",
+        "contact",
+        "syllabus",
+        "number",
+        "please provide the contact details",
+        "can you share the contact information"
+      ],
+      "responses": [
+        "More information you can reach us at  +91-9443370257 or email principalnmcc2014@gmail.com"
+      ]
+    },
+    {
+      "tag": "college_infrastructure",
+      "patterns": [
+        "infrastructure",
+        "college infrastructure",
+        "what facilities are available in the college",
+        "campus infrastructure",
+        "facilities",
+        "facilitie",
+        "nmcc facilities"
+      ],
+      "responses": [
+        "🏫 **Nesamony Memorial Christian College provides modern infrastructure to support both academic and student life. Facilities include **\n\n📚 Book Store\n🏠 Girls Hostel\n☕ Cafeteria\n🏟️ Indoor Stadium\n🗣️ Language Lab\n👩 Girls Lounge\n🛎️ Students Service Centre\n💻 ICT-enabled facilities\n🛏️ Guest Rooms\n💪 Fitness Centre\n🏏 Playground\n🎤 Seminar Halls\n📖 Research Scholars Lobby\n\n🌞 Solar Power Project\n💧 Rainwater Harvesting System\n🌱 Vermicompost Pit\n🔥 Biogas Plant\n♻️ Waste Management Practices\n👶 Day Care Centre"
+      ]
+    },
+    {
+      "tag": "placement",
+      "patterns": [
+        "Tell me about placement",
+        "Placement details",
+        "Information about Training and Placement Cell",
+        "Who is the placement officer?",
+        "Placement contact details",
+        "How does NMCC help with placements?"
+      ],
+      "responses": [
+        "🎓 **Training and Placement Cell (TPC) – Nesamony Memorial Christian College**\n\nThe Training and Placement Cell bridges the gap between the institute and companies. It organizes pre-placement training sessions to equip eligible students with the required skills, and facilitates placement interviews by reputed organisations both on-campus and off-campus.\n\n👨‍🏫 **Placement Officer / Convener:** Dr. P.J. Giftlin\n📞 **Contact No.:** +91-9994598858\n📧 **Email:** placementcell.nmcc@gmail.com"
+      ]
+    },
+    {
+      "tag": "college_location",
+      "patterns": [
+        "where is the college located",
+        "college address",
+        "location",
+        "location of nmcc",
+        "how to reach the college"
+      ],
+      "responses": [
+        "📍 Nesamony Memorial Christian College is located at Marthandam – 629165, Kanyakumari District, Tamil Nadu, India. You can view the location on Google Maps through the official website."
+      ]
+    },
+    {
+      "tag": "transport_facility",
+      "patterns": [
+        "college bus",
+        "transport facility",
+        "is bus available",
+        "college transportation"
+      ],
+      "responses": [
+        "🚌 Transport facilities are available for students from nearby areas. For routes, timing, and fee details, please contact the college office."
+      ]
+    },
+    {
+      "tag": "college_rules_regulations",
+      "patterns": [
+        "what are the college rules",
+        "tell me about nmcc rules and regulations",
+        "student rules in the college",
+        "college rules regulations",
+        "discipline rules of the college",
+        "attendance and conduct rules"
+      ],
+      "responses": [
+        "Students at Nesamony Memorial Christian College are expected to follow strict discipline and maintain respectful behavior on campus. Wearing an identity card is mandatory, and students must follow the prescribed dress code. Regular attendance is required, with a minimum of 75% to appear for end-semester examinations. Smoking, alcohol, drugs, ragging, and indecent behavior are strictly prohibited. Students must protect college property, obtain permission for leave, and avoid misconduct both inside and outside the campus. Certificates such as Transfer, Bonafide, and Conduct are issued only after clearing all dues and submitting the required application."
+      ]
+    },
+    {
+      "tag": "college_anthem",
+      "patterns": [
+        "college anthem",
+        "nmcc anthem",
+        "sing the college anthem",
+        "what is the college song",
+        "who wrote the nmcc anthem"
+      ],
+      "responses": [
+        "🎓 **Nesamony Memorial Christian College Anthem**\n\nWE LOVE THIS COLLEGE WE LOVE HER TRUE\nWe love this College we love her true,\nThis Nesamony Memorial Christian College Marthandam\n\nWe’re proud of her name and we’re proud of her fame\nSo join together and praise her name - For\nWe are one with the College,\nThat stands high, that stands very high,\nWe are one with the College\nThat stands high, for wisdom and purity.\n\nWe kneel to God when we start each day,\nAnd seek His guidance to show the way - For\nWisdom comes with the fear of God\nAnd this she taught us, let us praise her loud - For\n\nWith diligence do we strive so hard\nTo dispel darkness of ignorance\nGood men of our land, we’re taught to be\nI’ll carry her banner for all to see - For\n\nWith FAITH in God we do look ahead,\nHis grace will bless all our ENDEAVOUR\nIn wisdom and POWER we are sure to grow\nGod’s mercy is great and this we know - For\n\n✍️ **Written by: J.M. Arthur**"
+      ]
+    },
+    {
+      "tag": "college_emblem",
+      "patterns": [
+        "college emblem",
+        "nmcc logo meaning",
+        "what is the college symbol",
+        "meaning of the nmcc emblem",
+        "college motto"
+      ],
+      "responses": [
+        "🎓 **Nesamony Memorial Christian College Emblem**\n\nThe college emblem features a Cross, a Church, a Palmyra tree, a Star, an open Book, and a Lotus flower.\n\n• **Cross and Church:** Represent the Christian identity of the institution and symbolize sacrifice, love, and holiness.\n• **Palmyra Tree:** Reflects the productive nature of the institution and its connection to the region.\n• **Guiding Star:** Inspires the college to lead people toward light and knowledge.\n• **Open Book:** Signifies the liberating power of education.\n• **Lotus Flower:** Our national flower, representing knowledge and wisdom gained by students.\n\n⭐ **Motto:** *FAITH, ENDEAVOUR, POWER* — expressing the core values that guide the college community."
+      ]
+    },
+    {
+  "tag": "ug_courses",
+  "patterns": [
+    "what are the ug courses",
+    "list ug programs",
+    "ug",
+    "undergraduate courses available",
+    "show me ug courses",
+    "college ug courses"
+  ],
+  "responses": [
+    "🎓 The available UG courses are: B.A Tamil, B.A English (A), B.A English (SF), B.Sc Mathematics (A), B.Sc Mathematics (SF), B.Sc Physics, B.Sc Chemistry, B.Sc Botany, B.Sc Zoology, B.Sc Computer Science (A), B.Sc Computer Science (SF), B.Sc Physical Education, B.A History (Tamil), B.A History (English), B.A Economics, B.Com, B.Com (SF), B.C.A, B.B.A, B.A Tourism & Hospitality Management."
+  ]
+},
+    {
+      "tag": "aided_departments",
+      "patterns": [
+        "aided departments",
+        "what departments are aided",
+        "aided",
+        "list of aided departments",
+        "nmcc aided courses departments",
+        "departments under aided category"
+      ],
+      "responses": [
+        "🎓 **Aided Departments at Nesamony Memorial Christian College** include:\n\n• Tamil\n• Malayalam\n• English\n• Mathematics\n• Physics\n• Chemistry\n• Computer Science\n• Botany\n• Zoology\n• History\n• Economics\n• Commerce\n• Library\n• Physical Education\n\nThese departments are supported under the aided category and provide quality academic programs with experienced faculty."
+      ]
+    },
+    {
+      "tag": "self_financing_departments",
+      "patterns": [
+        "self financing departments",
+        "departments under self finance",
+        "nmcc self financing courses",
+        "list of self finance departments",
+        "what departments are self financed"
+      ],
+      "responses": [
+        "🎓 **Self-Financing Departments at Nesamony Memorial Christian College** include:\n\n• Tamil\n• Malayalam\n• English\n• Mathematics\n• Physics\n• Chemistry\n• Computer Science\n• Botany\n• Zoology\n• Physical Education\n• Economics\n• Tourism\n• Commerce\n• Computer Science & Application\n• Management Studies\n• Hindi\n\nThese departments offer career-oriented programs designed to meet modern academic and industry requirements."
+      ]
+    },
+    {
+      "tag": "courses_offered",
+      "patterns": [
+        "courses offered",
+        "what courses are available",
+        "nmcc courses",
+        "programs offered",
+        "course",
+        "list of courses",
+        "what can i study here",
+        "popular courses"
+      ],
+      "responses": [
+        "📚 Nesamony Memorial Christian College offers programs under multiple categories:\n\n🎓 U.G. Aided\n🎓 U.G. Self-Financing\n🎓 P.G. Aided\n🎓 P.G. Self-Financing\n🎓 M.Phil.\n🎓 Ph.D.\n🎓 Certificate & Diploma Courses\n🎓 Training Programmes\n\n👉 Please ask about a specific category like 'UG aided courses' or 'PG self-financing courses' to see the full list."
+      ]
+    },
+    {
+      "tag": "ug_aided_courses",
+      "patterns": [
+        "ug aided courses",
+        "undergraduate aided courses",
+        "ba bsc aided courses",
+        "aided degree courses",
+        "list ug aided"
+      ],
+      "responses": [
+        "🎓 **U.G. Aided Courses:**\n\n• B.A. Tamil Literature\n• B.A. English Literature\n• B.Sc. Mathematics\n• B.Sc. Physics\n• B.Sc. Chemistry\n• B.Sc. Botany\n• B.Sc. Zoology\n• B.Sc. Computer Science\n• B.A. History (Tamil Medium)\n• B.A. History (English Medium)\n• B.A. Economics\n• B.Com"
+      ]
+    },
+    {
+      "tag": "ug_self_financing_courses",
+      "patterns": [
+        "ug self financing courses",
+        "self finance degree courses",
+        "undergraduate self finance",
+        "bba bca courses",
+        "tourism management course"
+      ],
+      "responses": [
+        "🎓 **U.G. Self-Financing Courses:**\n\n• B.A. English Literature\n• B.Sc. Mathematics\n• B.Sc. Computer Science\n• B.Sc. Physical Education\n• B.A. Tourism Management\n• B.Com\n• B.C.A.\n• B.B.A."
+      ]
+    },
+    {
+  "tag": "pg_courses",
+  "patterns": [
+    "what are the pg courses",
+    "list pg programs",
+    "pg",
+    "postgraduate courses available",
+    "show me pg courses",
+    "college pg courses"
+  ],
+  "responses": [
+    "🎓 The available PG courses are: M.A Tamil, M.A English Batch I, M.A English Batch II, M.Sc Mathematics (A), M.Sc Mathematics (SF), M.Sc Physics (A), M.Sc Physics (SF), M.Sc Chemistry, M.Sc Botany, M.Sc Zoology, M.Sc Computer Science, M.A History, M.A Economics, M.Com, M.C.A, M.B.A."
+  ]
+},
+    {
+      "tag": "pg_aided_courses",
+      "patterns": [
+        "pg aided courses",
+        "postgraduate aided programs",
+        "msc aided courses",
+        "ma history aided"
+      ],
+      "responses": [
+        "🎓 **P.G. Aided Courses:**\n\n• M.Sc. Mathematics\n• M.Sc. Physics\n• M.A. History"
+      ]
+    },
+    {
+      "tag": "pg_self_financing_courses",
+      "patterns": [
+        "pg self financing courses",
+        "self finance pg programs",
+        "ma msc self finance",
+        "mba mca availability"
+      ],
+      "responses": [
+        "🎓 **P.G. Self-Financing Courses:**\n\n• M.A. Tamil\n• M.A. English\n• M.Sc. Mathematics\n• M.Sc. Physics\n• M.Sc. Chemistry\n• M.Sc. Botany\n• M.Sc. Zoology\n• M.Sc. Computer Science\n• M.A. Economics\n• M.Com\n• MCA (AICTE Approved)\n• MBA (AICTE Approved)"
+      ]
+    },
+    {
+      "tag": "mphil_courses",
+      "patterns": [
+        "mphil courses",
+        "is mphil available",
+        "mphil programs",
+        "Mphil",
+        "mphil",
+        "research mphil"
+      ],
+      "responses": [
+        "🎓 **M.Phil. Programs:**\n\n✅ Aided:\n• History\n\n✅ Self-Financing:\n• Tamil\n• English\n• Mathematics\n• Physics\n• Chemistry\n• Computer Science\n• Botany\n• Zoology\n• Economics\n• Commerce\n• Management Studies"
+      ]
+    },
+    {
+      "tag": "phd_courses",
+      "patterns": [
+        "phd courses",
+        "doctorate programs",
+        "research phd",
+        "is phd available"
+      ],
+      "responses": [
+        "🎓 **Ph.D. Programs are available in:**\n\n• Tamil\n• English\n• Mathematics\n• Physics\n• Chemistry\n• Computer Science\n• Botany\n• Zoology\n• History\n• Economics\n• Commerce\n• Management Studies"
+      ]
+    },
+    {
+      "tag": "certificate_courses",
+      "patterns": [
+        "certificate courses",
+        "diploma courses",
+        "short term courses",
+        "skill courses",
+        "training programs"
+      ],
+      "responses": [
+        "📘 **Certificate, Diploma & Training Programs:**\n\n• Air-ticketing and Cargo Management\n• Business Communication\n• Computational Biology\n• Computer Aided Accounting\n• Entrepreneurship\n• Export and Import Management\n• Graphics for Visual Communication\n• Handicrafts\n• Herbal Science\n• Visual Communication\n\n✅ University Approved:\n• Spoken English (2 Batches)\n\n✅ Training Programmes:\n• Spoken Hindi\n• Driving"
+      ]
+    },
+    {
+      "tag": "admission_policy",
+      "patterns": [
+        "admission details",
+        "how to get admission",
+        "admission policy",
+        "nmcc admission",
+        "admission process",
+        "tell me about admission process",
+        "college admission process"
+      ],
+      "responses": [
+        "🎓 Admission is conducted as per the Government of Tamil Nadu norms for the current academic year.\n\nYou can ask me about:\n✅ Reservation of seats\n✅ Age limit\n✅ Required documents\n✅ Ranking criteria\n✅ Interview process\n✅ Fee payment\n✅ Application submission\n\n👉 Please type the topic you want to know!"
+      ]
+    },
+    {
+      "tag": "seat_reservation",
+      "patterns": [
+        "seat reservation",
+        "quota system",
+        "reservation policy",
+        "community quota",
+        "minority quota"
+      ],
+      "responses": [
+        "📊 **Reservation of Seats:**\n\n• Minority Quota – 50%\n• Open Competition (OC) – 31%\n• Backward Classes (BC) – 26.5%\n• Backward Classes Muslim (BCM) – 3.5%\n• Most Backward Classes (MBC/DNC) – 20%\n• Scheduled Castes (SC/SCA) – 18%\n• Scheduled Tribes (ST) – 1%\n\n✅ Additional Reservations:\n• 3% for physically challenged candidates\n• 6 seats for children of Ex-Servicemen (Tamil Nadu origin)\n• Sports quota – 3% for UG and 2% for PG\n• 1 seat for an outstanding NCC candidate"
+      ]
+    },
+    {
+      "tag": "admission_documents",
+      "patterns": [
+        "documents required for admission",
+        "what certificates needed",
+        "admission documents",
+        "required certificates",
+        "application documents"
+      ],
+      "responses": [
+        "📄 **Documents Required for Admission:**\n\n• Mark Sheet and Certificate (HSC / UG)\n• Transfer Certificate\n• Conduct Certificate\n• Community Certificate (if applicable)\n• Income Certificate\n• Blood Group Certificate\n• Ex-serviceman certificate (if applicable)\n• Physically handicapped certificate (if applicable)\n• Sports / NCC / NSS certificates\n• Two stamp-size photographs\n\n⚠️ Bring ORIGINAL certificates for verification during the interview."
+      ]
+    },
+    {
+  "tag": "ba_courses",
+  "patterns": [
+    "What are the BA courses?",
+    "List BA courses",
+    "BA programs available",
+    "What BA degrees are offered?",
+    "Tell me BA courses",
+    "ba",
+    "Available BA courses",
+    "Do you offer BA?",
+    "BA degree list"
+  ],
+  "responses": [
+    "The B.A. courses offered are:\n\nU.G. Aided:\n- B.A. Tamil Literature\n- B.A. English Literature\n- B.A. History (Tamil Medium)\n- B.A. History (English Medium)\n- B.A. Economics\n\nU.G. Self-Financing:\n- B.A. English Literature\n- B.A. Tourism Management"
+  ]
+},
+{
+  "tag": "bsc_courses",
+  "patterns": [
+    "What are the BSc courses?",
+    "List BSc courses",
+    "BSc programs available",
+    "bsc",
+    "Science courses in UG",
+    "Available B.Sc degrees",
+    "Do you offer BSc?"
+  ],
+  "responses": [
+    "The B.Sc. courses offered are:\n\nU.G. Aided:\n- B.Sc. Mathematics\n- B.Sc. Physics\n- B.Sc. Chemistry\n- B.Sc. Botany\n- B.Sc. Zoology\n- B.Sc. Computer Science\n\nU.G. Self-Financing:\n- B.Sc. Mathematics\n- B.Sc. Computer Science\n- B.Sc. Physical Education"
+  ]
+},
+{
+  "tag": "msc_courses",
+  "patterns": [
+    "What are the MSc courses?",
+    "List MSc programs",
+    "msc",
+    "MSc courses available",
+    "Science PG courses",
+    "MSC",
+    "Available M.Sc degrees",
+    "Do you offer MSc?",
+    "Postgraduate science courses"
+  ],
+  "responses": [
+    "The M.Sc. courses offered are:\n\nP.G. Aided:\n- M.Sc. Mathematics\n- M.Sc. Physics\n\nP.G. Self-Financing:\n- M.Sc. Mathematics\n- M.Sc. Physics\n- M.Sc. Chemistry\n- M.Sc. Botany\n- M.Sc. Zoology\n- M.Sc. Computer Science"
+  ]
+},
+
+{
+  "tag": "bcom_courses",
+  "patterns": [
+    "What are the BCom courses?",
+    "Do you offer BCom?",
+    "Commerce courses in UG",
+    "List B.Com programs",
+    "Available BCom degree"
+  ],
+  "responses": [
+    "The B.Com. courses offered are:\n\nU.G. Aided:\n- B.Com\n\nU.G. Self-Financing:\n- B.Com."
+  ]
+},
+{
+  "tag": "ma_courses",
+  "patterns": [
+    "What are the MA courses?",
+    "List MA programs",
+    "ma",
+    "MA courses available",
+    "Arts PG courses",
+    "Available M.A degrees",
+    "Do you offer MA?",
+    "Postgraduate arts courses"
+  ],
+  "responses": [
+    "The M.A. courses offered are:\n\nP.G. Aided:\n- M.A. History\n\nP.G. Self-Financing:\n- M.A. Tamil\n- M.A. English\n- M.A. Economics"
+  ]
+},
+
+
+
+    {
+      "tag": "admission_age_limit",
+      "patterns": [
+        "age limit for admission",
+        "maximum age for ug",
+        "admission age requirement",
+        "eligibility age"
+      ],
+      "responses": [
+        "🎓 The upper age limit for admission to Undergraduate courses is **21 years** as on July 1 of the academic year."
+      ]
+    },
+    {
+      "tag": "admission_ranking",
+      "patterns": [
+        "ranking criteria",
+        "how rank list prepared",
+        "admission ranking",
+        "selection based on marks"
+      ],
+      "responses": [
+        "📊 Rank lists are prepared based on marks obtained in the subject component out of **400 marks under Part-III** in the Higher Secondary Examination.\n\nEligibility follows the guidelines of the respective Universities."
+      ]
+    },
+    {
+      "tag": "application_submission",
+      "patterns": [
+        "how to submit application",
+        "application last date",
+        "online application",
+        "admission application process",
+        "application submission",
+        "documents for application"
+      ],
+      "responses": [
+        "📝 The online application duly filled in all respects should reach the Principal within **10 working days** after publishing the results of the Plus Two Examination / UG Degree Examination.\n\n📌 The application must be accompanied by photocopies of:\n- Higher Secondary School Leaving Certificate / UG Degree and Mark Sheet\n- Transfer Certificate from the last institution studied\n- Conduct Certificate from the Head of the Institution last studied\n- Community Certificate\n- Income Certificate\n- Blood Group Certificate\n- Certificate for children of Ex-servicemen\n- Certificate for physically handicapped candidates\n- Games / Sports / NCC / NSS proficiency certificates\n- Two stamp-size photographs (one affixed on the application form, one for the Identity Card)\n\n⚠️ Note: Sports persons who have won inter-district or state-level competitions must attach supporting evidence.\n\n🔖 Important: Original certificates will not be returned before completion of the course. Applicants are advised to take sufficient attested copies before admission.\n\n🌐 **Online Admission Portal:** [Apply Here](https://nmcc.ac.in/apply.aspx)"
+      ]
+    },
+    {
+      "tag": "admission_interview",
+      "patterns": [
+        "is there interview",
+        "admission interview",
+        "selection interview",
+        "parent required for interview"
+      ],
+      "responses": [
+        "👨‍🎓 Selected candidates will be notified via the college notice board and website.\n\n✅ The applicant must attend the interview with a parent.\n✅ All ORIGINAL certificates must be produced.\n\nFailure to provide originals will result in ineligibility."
+      ]
+    },
+    {
+      "tag": "admission_fees",
+      "patterns": [
+        "fee payment",
+        "fees for courses",
+        "fee for *",
+        "when to pay fees",
+        "charges for *",
+        "admission fees",
+        "first installment"
+      ],
+      "responses": [
+        "💰 At the time of admission, students must pay the first installment of tuition and other fees.\n\n⚠️ Students leaving after admission must pay the full year's fees before receiving their certificates.\n\nSC/ST candidates are exempt from the initial payment."
+      ]
+    },
+    {
+      "tag": "community_certificate",
+      "patterns": [
+        "community certificate",
+        "certificate for community",
+        "community certificate requirement",
+        "do I need community certificate",
+        "community certificate for admission"
+      ],
+      "responses": [
+        "📄 A photocopy of the Community Certificate issued by the Tamil Nadu Government must be attached with the application, and the original should be shown at the time of interview.\n\n⚠️ Note: This certificate is not necessary for candidates belonging to the forward community."
+      ]
+    },
+    {
+      "tag": "marks_verification",
+      "patterns": [
+        "marks verification",
+        "verify marks",
+        "marks certificate check",
+        "marks verification process",
+        "bogus mark certificate"
+      ],
+      "responses": [
+        "📑 Admission is subject to verification of mark statements by the Director of Government Examinations.\n\n⚠️ If the mark certificate is found to be bogus, admission will be cancelled and criminal action may be taken against the candidate."
+      ]
+    },
+    {
+      "tag": "admission_status_check",
+      "patterns": [
+        "how to check admission status",
+        "selection list",
+        "rank list released",
+        "is my name in selection list"
+      ],
+      "responses": [
+        "📋 The selection list will be displayed on the college notice board and official website. Please check regularly or contact the admission office for confirmation."
+      ]
+    },
+    {
+      "tag": "eligibility_criteria",
+      "patterns": [
+        "eligibility for ug",
+        "who can apply",
+        "minimum marks required",
+        "eligibility criteria for admission"
+      ],
+      "responses": [
+        "🎓 Eligibility for UG admission requires successful completion of Higher Secondary (+2) from a recognized board. For PG admission, a relevant UG degree is required as per university norms."
+      ]
+    },
+    {
+      "tag": "hostel_facilities",
+      "patterns": [
+        "is hostel available",
+        "college hostel",
+        "girls hostel",
+        "hostel facilities",
+        "hostel fees"
+      ],
+      "responses": [
+        "🏠 Hostel facilities are available for students. The hostel provides safe accommodation, food, study environment, and necessary amenities. For hostel fees and admission procedure"
+      ]
+    },
+    {
+      "tag": "admission_grievance",
+      "patterns": [
+        "admission complaint",
+        "grievance",
+        "report admission issue",
+        "who to contact for admission problems"
+      ],
+      "responses": [
+        "📢 Admission grievances can be reported to:\n\n**The Regional Joint Director of Collegiate Education, Tirunelveli - 2.**"
+      ]
+    },
+    {
+      "tag": "ug_semester_count",
+      "patterns": [
+        "How many semesters are there in UG courses?",
+        "UG courses semester count",
+        "Number of semesters in undergraduate programs",
+        "How long is a UG course?",
+        "Total semesters for degree courses",
+        "UG syllabus semesters",
+        "Do UG courses have 6 semesters?",
+        "Semester structure of UG courses"
+      ],
+      "responses": [
+        "🎓 **UG Courses – Semester Structure (2025–2026)**\n\nAll Undergraduate (UG) programs in our college follow a **6-semester pattern**, typically completed over **3 years**.\n\n📚 **Courses with 6 Semesters:**\n• B.A Tamil\n• B.A English (Aided & Self Finance)\n• B.Sc Mathematics (Aided & Self Finance)\n• B.Sc Physics\n• B.Sc Chemistry\n• B.Sc Botany\n• B.Sc Zoology\n• B.Sc Computer Science (Aided & Self Finance)\n• B.Sc Physical Education\n• B.A History (Tamil & English)\n• B.A Economics\n• B.Com (Aided & Self Finance)\n• B.C.A\n• B.B.A\n\n⚠️ **Note:**\n• **B.A Tourism & Hospitality Management** currently offers only **Semester 1 and 2**.\n\n✅ Each semester includes core subjects, electives, skill-based courses, and ability enhancement programs as per university norms."
+      ]
+    },
+    {
+      "tag": "pg_semester_count",
+      "patterns": [
+        "How many semesters are there in PG courses?",
+        "PG courses semester count",
+        "Number of semesters in postgraduate programs",
+        "How long is a PG course?",
+        "Total semesters for masters degree",
+        "PG syllabus semesters",
+        "Do PG courses have 4 semesters?",
+        "Semester structure of PG courses"
+      ],
+      "responses": [
+        "🎓 **PG Courses – Semester Structure (2025–2026)**\n\nAll Postgraduate (PG) programs in our college follow a **4-semester pattern**, typically completed over **2 years**.\n\n📚 **Courses with 4 Semesters:**\n• M.A Tamil\n• M.A English (Batch I & Batch II)\n• M.Sc Mathematics (Aided & Self Finance)\n• M.Sc Physics (Aided & Self Finance)\n• M.Sc Chemistry\n• M.Sc Botany\n• M.Sc Zoology\n• M.Sc Computer Science\n• M.A History\n• M.A Economics\n• M.Com\n• MCA\n• MBA\n\n✅ Each semester includes core papers, electives, project work, and skill-based courses as per university regulations."
+      ]
+    },
+    {
+      "tag": "mphil_semester_structure",
+      "patterns": [
+        "How many semesters are there in M.Phil?",
+        "M.Phil course duration",
+        "M.Phil semester details",
+        "Is M.Phil one semester?",
+        "M.Phil syllabus structure",
+        "M.Phil course pattern",
+        "How long is M.Phil course?",
+        "Number of semesters in M.Phil"
+      ],
+      "responses": [
+        "🎓 **M.Phil Programme – Semester Structure**\n\nAll **M.Phil programmes** offered by the college follow a **single-semester pattern**, as per university norms.\n\n📘 **M.Phil Courses (1 Semester):**\n• M.Phil Tamil\n• M.Phil English\n• M.Phil Mathematics\n• M.Phil Physics\n• M.Phil Chemistry\n• M.Phil Botany\n• M.Phil Zoology\n• M.Phil Computer Science\n• M.Phil History\n• M.Phil Economics\n• M.Phil Commerce\n• M.Phil Management Studies\n\n📌 The programme focuses on **research methodology, advanced subject study, and dissertation work**."
+      ]
+    },
+    {
+      "tag": "phd_course_structure",
+      "patterns": [
+        "PhD courses offered",
+        "PhD programmes available",
+        "PhD course list",
+        "Is PhD available in NMCC?",
+        "PhD departments",
+        "PhD syllabus",
+        "PhD course work details",
+        "PhD subjects offered",
+        "Doctoral programmes"
+      ],
+      "responses": [
+        "🎓 **Ph.D Programme – Course Work Structure**\n\nAll **Ph.D programmes** include a **mandatory Course Work** followed by independent research, as per university and UGC norms.\n\n📘 **Ph.D Courses Offered:**\n• Ph.D Tamil\n• Ph.D English\n• Ph.D History\n• Ph.D Economics\n• Ph.D Mathematics\n• Ph.D Physics\n• Ph.D Chemistry\n• Ph.D Botany\n• Ph.D Zoology\n• Ph.D Computer Science\n• Ph.D Management Studies\n• Ph.D Commerce\n\n📌 After successful completion of **Course Work**, scholars proceed to **research work, thesis submission, and viva voce**."
+      ]
+    },
+    {
+      "tag": "certificate_courses_cop",
+      "patterns": [
+        "Certificate courses offered",
+        "COP courses",
+        "Add on courses",
+        "Certificate programmes available",
+        "What certificate courses are offered?",
+        "Short term courses in college",
+        "Skill based courses",
+        "COP syllabus",
+        "Certificate course list"
+      ],
+      "responses": [
+        "📜 **Certificate Oriented Programmes (COP)**\n\nThe college offers the following **skill-based and job-oriented certificate courses**:\n\n• Air-Ticketing and Cargo Management\n• Business Communication\n• Computational Biology\n• Computer Aided Accounting\n• Entrepreneurship\n• Export and Import Management\n• Graphics for Visual Communication\n• Handicrafts\n• Herbal Science\n• Spoken English\n• Visual Communication\n\n📌 These programmes are designed to enhance **employability, communication skills, and industry readiness**."
+      ]
+    },
+    {
+      "tag": "scholarship_office",
+      "patterns": [
+        "Scholarship office",
+        "Scholarships available",
+        "Is scholarship available?",
+        "Financial aid for students",
+        "Student scholarship details",
+        "How to apply for scholarship",
+        "Merit scholarship",
+        "Need based scholarship"
+      ],
+      "responses": [
+        "🎓 **Scholarship Office**\n\nA scholarship is a form of **financial assistance** provided to students to support their education.\n\nScholarships are awarded based on various criteria such as:\n• Academic merit\n• Financial need\n• Diversity and inclusion\n• Athletic achievements\n\n📌 Eligible students are encouraged to contact the **Scholarship Office** for application procedures, required documents, and deadlines."
+      ]
+    },
+    {
+      "tag": "state_scholarships_list",
+      "patterns": [
+        "State scholarships",
+        "Tamil Nadu state scholarships",
+        "Government scholarships",
+        "List of state scholarships",
+        "What are the state scholarships?",
+        "Scholarships provided by Tamil Nadu government"
+      ],
+      "responses": [
+        "🏛️ **State Scholarships Available**\n\nThe following **Tamil Nadu Government scholarships** are available for eligible students:\n\n1️⃣ **BC / MBC / DNC Scholarship**\n2️⃣ **Adi Dravidar Welfare Scholarship (SC / ST / SCC)**\n3️⃣ **Differently Abled Welfare Scholarship**\n4️⃣ **Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme**\n5️⃣ **Uzhavar Scholarship**\n6️⃣ **Tamil Medium Scholarship (Incentive Scheme)**\n7️⃣ **Ph.D. Scholarship**\n\n📌 Each scholarship has specific eligibility criteria, income limits, and document requirements. Ask me about any scholarship to know more details."
+      ]
+    },
+    {
+      "tag": "national_scholarships_list",
+      "patterns": [
+        "National scholarships",
+        "Central government scholarships",
+        "List of national scholarships",
+        "Scholarships from central government",
+        "What are the national scholarships?",
+        "Government of India scholarships"
+      ],
+      "responses": [
+        "🇮🇳 **National Scholarships Available**\n\nThe following **Government of India scholarships** are available for eligible students:\n\n1️⃣ Post-Matric Scholarship for Minority Students\n2️⃣ Merit Cum Means Based Scholarship for Minority Students\n3️⃣ Central Sector Scheme of Scholarship for College and University Students\n4️⃣ Central Sector Scholarship for Students with Disabilities\n5️⃣ National Fellowship & Scholarship for Higher Education of Scheduled Tribe Students\n6️⃣ National Scholarship for Postgraduate Studies\n\n📌 Applications are submitted through the **National Scholarship Portal:** https://scholarships.gov.in/\n\nAsk me about any specific scholarship to know eligibility, income limit, and required documents."
+      ]
+    },
+    {
+      "tag": "ugc_scholarships_list",
+      "patterns": [
+        "UGC scholarships",
+        "University Grants Commission scholarships",
+        "List of UGC scholarships",
+        "Scholarships from UGC",
+        "What are the UGC scholarships?",
+        "PG scholarships from UGC"
+      ],
+      "responses": [
+        "🎓 **UGC Scholarships Available**\n\nThe University Grants Commission (UGC) offers the following scholarships:\n\n1️⃣ Post Graduate Scholarship for Single Girl Child\n2️⃣ Post Graduate Scholarship for University Rank Holders\n3️⃣ Post Graduate Scholarship for Professional Courses (SC/ST)\n4️⃣ Savitribai Jyotirao Phule Fellowship for Single Girl Child (Ph.D.)\n\n🌐 Apply through the National Scholarship Portal:\nhttps://scholarships.gov.in/\n\n📌 Each scholarship has specific eligibility criteria such as age limit, academic merit, category, and course type. Ask me about any scholarship for detailed information."
+      ]
+    },
+    {
+      "tag": "university_merit_scholarship_details",
+      "patterns": [
+        "University merit scholarship details",
+        "Eligibility for university merit scholarship",
+        "Who can apply for university scholarship",
+        "University scholarship eligibility",
+        "Merit scholarship for UG and PG",
+        "Tell me about university merit scholarships",
+        "University scholarship requirements",
+        "How to get university merit scholarship"
+      ],
+      "responses": [
+        "🎓 **University Merit Scholarship**\n\nThis scholarship is awarded to academically outstanding students in both UG and PG programs.\n\n✅ **Eligibility:**\n\n📚 **For UG Programs:**\n• First Year – Top 3 students based on +2 or equivalent exam scores.\n• Second Year – Top 3 students based on first-year & second semester results.\n• Third Year – Top 3 students based on the previous four semesters.\n\n📘 **For PG Programs:**\n• First Year – Top 2 students based on major subject scores in UG.\n• Second Year – Top 2 students based on first-year PG semester results.\n\n🔄 **Renewal Requirement:**\n• Students must secure **75% or above** in their first attempt in every paper each semester.\n\n📄 Application forms are available for both **new** and **renewal** candidates."
+      ]
+    },
+    {
+      "tag": "diocese_scholarship_details",
+      "patterns": [
+        "Diocese scholarship details",
+        "Church workers children scholarship",
+        "CSI Kanyakumari Diocese scholarship",
+        "Eligibility for diocese scholarship",
+        "Who can apply for church workers scholarship",
+        "Non teaching staff children scholarship",
+        "Diocese scholarship eligibility",
+        "Tell me about diocese scholarships"
+      ],
+      "responses": [
+        "⛪ **Diocese Scholarship**\n\nThe Diocese Scholarship supports students whose parents are church workers or non-teaching staff.\n\n✅ **Eligibility:**\n• Students belonging to **CSI Kanyakumari Diocese church workers' families** are eligible.\n• Children of **NMCC non-teaching staff** can also apply.\n\n📅 **Application Submission Period:** November\n\n📄 Application forms are available for both **new applicants** and **renewal candidates**."
+      ]
+    },
+    {
+      "tag": "good_samaritan_scholarship_details",
+      "patterns": [
+        "Good Samaritan scholarship details",
+        "Eligibility for Good Samaritan scholarship",
+        "Who can apply for Good Samaritan scholarship",
+        "College Good Samaritan scholarship",
+        "UG scholarship for orphan students"
+      ],
+      "responses": [
+        "💙 **Good Samaritan Scholarship**\n\nThe Good Samaritan Scholarship is designed to support qualified and deserving meritorious students enrolled in **UG programmes**.\n\n✅ **Eligibility Criteria:**\n• Student who lost both parents\n• Student with a permanently disabled parent\n• Student who lost either one parent\n• Destitute students\n\n📌 **Note:** Only **7 students** will receive this fee concession.\n\n📅 **Application Submission Period:** June\n\n📄 Application forms are available for new applicants."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_a_tamil",
+      "patterns": [
+        "What is B.A Tamil?",
+        "what is B.A Tamil",
+        "Details of B.A Tamil",
+        "details of B.A Tamil",
+        "Tell me about B.A Tamil",
+        "Information about B.A Tamil",
+        "B.A Tamil course details",
+        "B.A Tamil duration",
+        "How many semesters in B.A Tamil",
+        "BA Tamil",
+        "ba tamil",
+        "What is BA Tamil?",
+        "what is BA Tamil",
+        "Details of BA Tamil",
+        "details of BA Tamil",
+        "Tell me about BA Tamil"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.A Tamil. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_a_english_a",
+      "patterns": [
+        "What is B.A English (A)?",
+        "what is B.A English (A)",
+        "Details of B.A English (A)",
+        "details of B.A English (A)",
+        "Tell me about B.A English (A)",
+        "Information about B.A English (A)",
+        "B.A English (A) course details",
+        "B.A English (A) duration",
+        "How many semesters in B.A English (A)",
+        "BA English (A)",
+        "ba english (a)",
+        "What is BA English (A)?",
+        "what is BA English (A)",
+        "Details of BA English (A)",
+        "details of BA English (A)",
+        "Tell me about BA English (A)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.A English (A). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_a_english_sf",
+      "patterns": [
+        "What is B.A English (SF)?",
+        "what is B.A English (SF)",
+        "Details of B.A English (SF)",
+        "details of B.A English (SF)",
+        "Tell me about B.A English (SF)",
+        "Information about B.A English (SF)",
+        "B.A English (SF) course details",
+        "B.A English (SF) duration",
+        "How many semesters in B.A English (SF)",
+        "BA English (SF)",
+        "ba english (sf)",
+        "What is BA English (SF)?",
+        "what is BA English (SF)",
+        "Details of BA English (SF)",
+        "details of BA English (SF)",
+        "Tell me about BA English (SF)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.A English (SF). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_mathematics_a",
+      "patterns": [
+        "What is B.Sc Mathematics (A)?",
+        "what is B.Sc Mathematics (A)",
+        "Details of B.Sc Mathematics (A)",
+        "details of B.Sc Mathematics (A)",
+        "Tell me about B.Sc Mathematics (A)",
+        "Information about B.Sc Mathematics (A)",
+        "B.Sc Mathematics (A) course details",
+        "B.Sc Mathematics (A) duration",
+        "How many semesters in B.Sc Mathematics (A)",
+        "BSc Mathematics (A)",
+        "bsc mathematics (a)",
+        "What is BSc Mathematics (A)?",
+        "what is BSc Mathematics (A)",
+        "Details of BSc Mathematics (A)",
+        "details of BSc Mathematics (A)",
+        "Tell me about BSc Mathematics (A)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Mathematics (A). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_mathematics_sf",
+      "patterns": [
+        "What is B.Sc Mathematics (SF)?",
+        "what is B.Sc Mathematics (SF)",
+        "Details of B.Sc Mathematics (SF)",
+        "details of B.Sc Mathematics (SF)",
+        "Tell me about B.Sc Mathematics (SF)",
+        "Information about B.Sc Mathematics (SF)",
+        "B.Sc Mathematics (SF) course details",
+        "B.Sc Mathematics (SF) duration",
+        "How many semesters in B.Sc Mathematics (SF)",
+        "BSc Mathematics (SF)",
+        "bsc mathematics (sf)",
+        "What is BSc Mathematics (SF)?",
+        "what is BSc Mathematics (SF)",
+        "Details of BSc Mathematics (SF)",
+        "details of BSc Mathematics (SF)",
+        "Tell me about BSc Mathematics (SF)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Mathematics (SF). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_physics",
+      "patterns": [
+        "What is B.Sc Physics?",
+        "what is B.Sc Physics",
+        "Details of B.Sc Physics",
+        "details of B.Sc Physics",
+        "Tell me about B.Sc Physics",
+        "Information about B.Sc Physics",
+        "B.Sc Physics course details",
+        "B.Sc Physics duration",
+        "How many semesters in B.Sc Physics",
+        "BSc Physics",
+        "bsc physics",
+        "What is BSc Physics?",
+        "what is BSc Physics",
+        "Details of BSc Physics",
+        "details of BSc Physics",
+        "Tell me about BSc Physics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Physics. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_chemistry",
+      "patterns": [
+        "What is B.Sc Chemistry?",
+        "what is B.Sc Chemistry",
+        "Details of B.Sc Chemistry",
+        "details of B.Sc Chemistry",
+        "Tell me about B.Sc Chemistry",
+        "Information about B.Sc Chemistry",
+        "B.Sc Chemistry course details",
+        "B.Sc Chemistry duration",
+        "How many semesters in B.Sc Chemistry",
+        "BSc Chemistry",
+        "bsc chemistry",
+        "What is BSc Chemistry?",
+        "what is BSc Chemistry",
+        "Details of BSc Chemistry",
+        "details of BSc Chemistry",
+        "Tell me about BSc Chemistry"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Chemistry. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_botany",
+      "patterns": [
+        "What is B.Sc Botany?",
+        "what is B.Sc Botany",
+        "Details of B.Sc Botany",
+        "details of B.Sc Botany",
+        "Tell me about B.Sc Botany",
+        "Information about B.Sc Botany",
+        "B.Sc Botany course details",
+        "B.Sc Botany duration",
+        "How many semesters in B.Sc Botany",
+        "BSc Botany",
+        "bsc botany",
+        "What is BSc Botany?",
+        "what is BSc Botany",
+        "Details of BSc Botany",
+        "details of BSc Botany",
+        "Tell me about BSc Botany"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Botany. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_zoology",
+      "patterns": [
+        "What is B.Sc Zoology?",
+        "what is B.Sc Zoology",
+        "Details of B.Sc Zoology",
+        "details of B.Sc Zoology",
+        "Tell me about B.Sc Zoology",
+        "Information about B.Sc Zoology",
+        "B.Sc Zoology course details",
+        "B.Sc Zoology duration",
+        "How many semesters in B.Sc Zoology",
+        "BSc Zoology",
+        "bsc zoology",
+        "What is BSc Zoology?",
+        "what is BSc Zoology",
+        "Details of BSc Zoology",
+        "details of BSc Zoology",
+        "Tell me about BSc Zoology"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Zoology. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_computer_science_a",
+      "patterns": [
+        "What is B.Sc Computer Science (A)?",
+        "what is B.Sc Computer Science (A)",
+        "Details of B.Sc Computer Science (A)",
+        "details of B.Sc Computer Science (A)",
+        "Tell me about B.Sc Computer Science (A)",
+        "Information about B.Sc Computer Science (A)",
+        "B.Sc Computer Science (A) course details",
+        "B.Sc Computer Science (A) duration",
+        "How many semesters in B.Sc Computer Science (A)",
+        "BSc Computer Science (A)",
+        "bsc computer science (a)",
+        "What is BSc Computer Science (A)?",
+        "what is BSc Computer Science (A)",
+        "Details of BSc Computer Science (A)",
+        "details of BSc Computer Science (A)",
+        "Tell me about BSc Computer Science (A)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Computer Science (A). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_computer_science_sf",
+      "patterns": [
+        "What is B.Sc Computer Science (SF)?",
+        "what is B.Sc Computer Science (SF)",
+        "Details of B.Sc Computer Science (SF)",
+        "details of B.Sc Computer Science (SF)",
+        "Tell me about B.Sc Computer Science (SF)",
+        "Information about B.Sc Computer Science (SF)",
+        "B.Sc Computer Science (SF) course details",
+        "B.Sc Computer Science (SF) duration",
+        "How many semesters in B.Sc Computer Science (SF)",
+        "BSc Computer Science (SF)",
+        "bsc computer science (sf)",
+        "What is BSc Computer Science (SF)?",
+        "what is BSc Computer Science (SF)",
+        "Details of BSc Computer Science (SF)",
+        "details of BSc Computer Science (SF)",
+        "Tell me about BSc Computer Science (SF)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Computer Science (SF). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_sc_physical_education",
+      "patterns": [
+        "What is B.Sc Physical Education?",
+        "what is B.Sc Physical Education",
+        "Details of B.Sc Physical Education",
+        "details of B.Sc Physical Education",
+        "Tell me about B.Sc Physical Education",
+        "Information about B.Sc Physical Education",
+        "B.Sc Physical Education course details",
+        "B.Sc Physical Education duration",
+        "How many semesters in B.Sc Physical Education",
+        "BSc Physical Education",
+        "bsc physical education",
+        "What is BSc Physical Education?",
+        "what is BSc Physical Education",
+        "Details of BSc Physical Education",
+        "details of BSc Physical Education",
+        "Tell me about BSc Physical Education"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Sc Physical Education. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_a_history_tamil",
+      "patterns": [
+        "What is B.A History (Tamil)?",
+        "what is B.A History (Tamil)",
+        "Details of B.A History (Tamil)",
+        "details of B.A History (Tamil)",
+        "Tell me about B.A History (Tamil)",
+        "Information about B.A History (Tamil)",
+        "B.A History (Tamil) course details",
+        "B.A History (Tamil) duration",
+        "How many semesters in B.A History (Tamil)",
+        "BA History (Tamil)",
+        "ba history (tamil)",
+        "What is BA History (Tamil)?",
+        "what is BA History (Tamil)",
+        "Details of BA History (Tamil)",
+        "details of BA History (Tamil)",
+        "Tell me about BA History (Tamil)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.A History (Tamil). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_a_history_english",
+      "patterns": [
+        "What is B.A History (English)?",
+        "what is B.A History (English)",
+        "Details of B.A History (English)",
+        "details of B.A History (English)",
+        "Tell me about B.A History (English)",
+        "Information about B.A History (English)",
+        "B.A History (English) course details",
+        "B.A History (English) duration",
+        "How many semesters in B.A History (English)",
+        "BA History (English)",
+        "ba history (english)",
+        "What is BA History (English)?",
+        "what is BA History (English)",
+        "Details of BA History (English)",
+        "details of BA History (English)",
+        "Tell me about BA History (English)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.A History (English). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_a_economics",
+      "patterns": [
+        "What is B.A Economics?",
+        "what is B.A Economics",
+        "Details of B.A Economics",
+        "details of B.A Economics",
+        "Tell me about B.A Economics",
+        "Information about B.A Economics",
+        "B.A Economics course details",
+        "B.A Economics duration",
+        "How many semesters in B.A Economics",
+        "BA Economics",
+        "ba economics",
+        "What is BA Economics?",
+        "what is BA Economics",
+        "Details of BA Economics",
+        "details of BA Economics",
+        "Tell me about BA Economics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.A Economics. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_com",
+      "patterns": [
+        "What is B.Com?",
+        "what is B.Com",
+        "Details of B.Com",
+        "details of B.Com",
+        "Tell me about B.Com",
+        "Information about B.Com",
+        "B.Com course details",
+        "B.Com duration",
+        "How many semesters in B.Com",
+        "BCom",
+        "bcom",
+        "What is BCom?",
+        "what is BCom",
+        "Details of BCom",
+        "details of BCom",
+        "Tell me about BCom"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Com. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_com_sf",
+      "patterns": [
+        "What is B.Com (SF)?",
+        "what is B.Com (SF)",
+        "Details of B.Com (SF)",
+        "details of B.Com (SF)",
+        "Tell me about B.Com (SF)",
+        "Information about B.Com (SF)",
+        "B.Com (SF) course details",
+        "B.Com (SF) duration",
+        "How many semesters in B.Com (SF)",
+        "BCom (SF)",
+        "bcom (sf)",
+        "What is BCom (SF)?",
+        "what is BCom (SF)",
+        "Details of BCom (SF)",
+        "details of BCom (SF)",
+        "Tell me about BCom (SF)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.Com (SF). It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_c_a",
+      "patterns": [
+        "What is B.C.A?",
+        "what is B.C.A",
+        "Details of B.C.A",
+        "details of B.C.A",
+        "Tell me about B.C.A",
+        "Information about B.C.A",
+        "B.C.A course details",
+        "B.C.A duration",
+        "How many semesters in B.C.A",
+        "BCA",
+        "bca",
+        "What is BCA?",
+        "what is BCA",
+        "Details of BCA",
+        "details of BCA",
+        "Tell me about BCA"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.C.A. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_b_a",
+      "patterns": [
+        "What is B.B.A?",
+        "what is B.B.A",
+        "Details of B.B.A",
+        "details of B.B.A",
+        "Tell me about B.B.A",
+        "Information about B.B.A",
+        "B.B.A course details",
+        "B.B.A duration",
+        "How many semesters in B.B.A",
+        "BBA",
+        "bba",
+        "What is BBA?",
+        "what is BBA",
+        "Details of BBA",
+        "details of BBA",
+        "Tell me about BBA"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.B.A. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_ug_b_a_tourism_and_hospitality_management",
+      "patterns": [
+        "What is B.A Tourism & Hospitality Management?",
+        "what is B.A Tourism & Hospitality Management",
+        "Details of B.A Tourism & Hospitality Management",
+        "details of B.A Tourism & Hospitality Management",
+        "Tell me about B.A Tourism & Hospitality Management",
+        "Tourism & Hospitality Management",
+        "B.A Tourism & Hospitality Management course details",
+        "B.A Tourism & Hospitality Management duration",
+        "Tourism",
+        "BA Tourism & Hospitality Management",
+        "ba tourism & hospitality management",
+        "What is BA Tourism & Hospitality Management?",
+        "what is BA Tourism & Hospitality Management",
+        "Details of BA Tourism & Hospitality Management",
+        "details of BA Tourism & Hospitality Management",
+        "Tell me about BA Tourism & Hospitality Management"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers B.A Tourism & Hospitality Management. It is a 3 year undergraduate course with 6 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_a_tamil",
+      "patterns": [
+        "What is M.A Tamil?",
+        "what is M.A Tamil",
+        "Details of M.A Tamil",
+        "details of M.A Tamil",
+        "Tell me about M.A Tamil",
+        "Information about M.A Tamil",
+        "M.A Tamil course details",
+        "M.A Tamil duration",
+        "How many semesters in M.A Tamil",
+        "MA Tamil",
+        "ma tamil",
+        "What is MA Tamil?",
+        "what is MA Tamil",
+        "Details of MA Tamil",
+        "details of MA Tamil",
+        "Tell me about MA Tamil"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.A Tamil. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_a_english_batch_i",
+      "patterns": [
+        "What is M.A English Batch I?",
+        "what is M.A English Batch I",
+        "Details of M.A English Batch I",
+        "details of M.A English Batch I",
+        "Tell me about M.A English Batch I",
+        "Information about M.A English Batch I",
+        "M.A English Batch I course details",
+        "M.A English Batch I duration",
+        "How many semesters in M.A English Batch I",
+        "MA English Batch I",
+        "ma english batch i",
+        "What is MA English Batch I?",
+        "what is MA English Batch I",
+        "Details of MA English Batch I",
+        "details of MA English Batch I",
+        "Tell me about MA English Batch I"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.A English Batch I. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_mathematics_a",
+      "patterns": [
+        "What is M.Sc Mathematics (A)?",
+        "what is M.Sc Mathematics (A)",
+        "Details of M.Sc Mathematics (A)",
+        "details of M.Sc Mathematics (A)",
+        "Tell me about M.Sc Mathematics (A)",
+        "Information about M.Sc Mathematics (A)",
+        "M.Sc Mathematics (A) course details",
+        "M.Sc Mathematics (A) duration",
+        "How many semesters in M.Sc Mathematics (A)",
+        "MSc Mathematics (A)",
+        "msc mathematics (a)",
+        "What is MSc Mathematics (A)?",
+        "what is MSc Mathematics (A)",
+        "Details of MSc Mathematics (A)",
+        "details of MSc Mathematics (A)",
+        "Tell me about MSc Mathematics (A)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Mathematics (A). It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_mathematics_sf",
+      "patterns": [
+        "What is M.Sc Mathematics (SF)?",
+        "what is M.Sc Mathematics (SF)",
+        "Details of M.Sc Mathematics (SF)",
+        "details of M.Sc Mathematics (SF)",
+        "Tell me about M.Sc Mathematics (SF)",
+        "Information about M.Sc Mathematics (SF)",
+        "M.Sc Mathematics (SF) course details",
+        "M.Sc Mathematics (SF) duration",
+        "How many semesters in M.Sc Mathematics (SF)",
+        "MSc Mathematics (SF)",
+        "msc mathematics (sf)",
+        "What is MSc Mathematics (SF)?",
+        "what is MSc Mathematics (SF)",
+        "Details of MSc Mathematics (SF)",
+        "details of MSc Mathematics (SF)",
+        "Tell me about MSc Mathematics (SF)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Mathematics (SF). It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_physics_a",
+      "patterns": [
+        "What is M.Sc Physics (A)?",
+        "what is M.Sc Physics (A)",
+        "Details of M.Sc Physics (A)",
+        "details of M.Sc Physics (A)",
+        "Tell me about M.Sc Physics (A)",
+        "Information about M.Sc Physics (A)",
+        "M.Sc Physics (A) course details",
+        "M.Sc Physics (A) duration",
+        "How many semesters in M.Sc Physics (A)",
+        "MSc Physics (A)",
+        "msc physics (a)",
+        "What is MSc Physics (A)?",
+        "what is MSc Physics (A)",
+        "Details of MSc Physics (A)",
+        "details of MSc Physics (A)",
+        "Tell me about MSc Physics (A)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Physics (A). It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_physics_sf",
+      "patterns": [
+        "What is M.Sc Physics (SF)?",
+        "what is M.Sc Physics (SF)",
+        "Details of M.Sc Physics (SF)",
+        "details of M.Sc Physics (SF)",
+        "Tell me about M.Sc Physics (SF)",
+        "Information about M.Sc Physics (SF)",
+        "M.Sc Physics (SF) course details",
+        "M.Sc Physics (SF) duration",
+        "How many semesters in M.Sc Physics (SF)",
+        "MSc Physics (SF)",
+        "msc physics (sf)",
+        "What is MSc Physics (SF)?",
+        "what is MSc Physics (SF)",
+        "Details of MSc Physics (SF)",
+        "details of MSc Physics (SF)",
+        "Tell me about MSc Physics (SF)"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Physics (SF). It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_chemistry",
+      "patterns": [
+        "What is M.Sc Chemistry?",
+        "what is M.Sc Chemistry",
+        "Details of M.Sc Chemistry",
+        "details of M.Sc Chemistry",
+        "Tell me about M.Sc Chemistry",
+        "Information about M.Sc Chemistry",
+        "M.Sc Chemistry course details",
+        "M.Sc Chemistry duration",
+        "How many semesters in M.Sc Chemistry",
+        "MSc Chemistry",
+        "msc chemistry",
+        "What is MSc Chemistry?",
+        "what is MSc Chemistry",
+        "Details of MSc Chemistry",
+        "details of MSc Chemistry",
+        "Tell me about MSc Chemistry"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Chemistry. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_botany",
+      "patterns": [
+        "What is M.Sc Botany?",
+        "what is M.Sc Botany",
+        "Details of M.Sc Botany",
+        "details of M.Sc Botany",
+        "Tell me about M.Sc Botany",
+        "Information about M.Sc Botany",
+        "M.Sc Botany course details",
+        "M.Sc Botany duration",
+        "How many semesters in M.Sc Botany",
+        "MSc Botany",
+        "msc botany",
+        "What is MSc Botany?",
+        "what is MSc Botany",
+        "Details of MSc Botany",
+        "details of MSc Botany",
+        "Tell me about MSc Botany"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Botany. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_zoology",
+      "patterns": [
+        "What is M.Sc Zoology?",
+        "what is M.Sc Zoology",
+        "Details of M.Sc Zoology",
+        "details of M.Sc Zoology",
+        "Tell me about M.Sc Zoology",
+        "Information about M.Sc Zoology",
+        "M.Sc Zoology course details",
+        "M.Sc Zoology duration",
+        "How many semesters in M.Sc Zoology",
+        "MSc Zoology",
+        "msc zoology",
+        "What is MSc Zoology?",
+        "what is MSc Zoology",
+        "Details of MSc Zoology",
+        "details of MSc Zoology",
+        "Tell me about MSc Zoology"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Zoology. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_sc_computer_science",
+      "patterns": [
+        "What is M.Sc Computer Science?",
+        "what is M.Sc Computer Science",
+        "Details of M.Sc Computer Science",
+        "details of M.Sc Computer Science",
+        "Tell me about M.Sc Computer Science",
+        "Information about M.Sc Computer Science",
+        "M.Sc Computer Science course details",
+        "M.Sc Computer Science duration",
+        "How many semesters in M.Sc Computer Science",
+        "MSc Computer Science",
+        "msc computer science",
+        "What is MSc Computer Science?",
+        "what is MSc Computer Science",
+        "Details of MSc Computer Science",
+        "details of MSc Computer Science",
+        "Tell me about MSc Computer Science"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Sc Computer Science. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_a_history",
+      "patterns": [
+        "What is M.A History?",
+        "what is M.A History",
+        "Details of M.A History",
+        "details of M.A History",
+        "Tell me about M.A History",
+        "Information about M.A History",
+        "M.A History course details",
+        "M.A History duration",
+        "How many semesters in M.A History",
+        "MA History",
+        "ma history",
+        "What is MA History?",
+        "what is MA History",
+        "Details of MA History",
+        "details of MA History",
+        "Tell me about MA History"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.A History. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_a_economics",
+      "patterns": [
+        "What is M.A Economics?",
+        "what is M.A Economics",
+        "Details of M.A Economics",
+        "details of M.A Economics",
+        "Tell me about M.A Economics",
+        "Information about M.A Economics",
+        "M.A Economics course details",
+        "M.A Economics duration",
+        "How many semesters in M.A Economics",
+        "MA Economics",
+        "ma economics",
+        "What is MA Economics?",
+        "what is MA Economics",
+        "Details of MA Economics",
+        "details of MA Economics",
+        "Tell me about MA Economics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.A Economics. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_com",
+      "patterns": [
+        "What is M.Com?",
+        "what is M.Com",
+        "Details of M.Com",
+        "details of M.Com",
+        "Tell me about M.Com",
+        "Information about M.Com",
+        "M.Com course details",
+        "M.Com duration",
+        "How many semesters in M.Com",
+        "MCom",
+        "mcom",
+        "What is MCom?",
+        "what is MCom",
+        "Details of MCom",
+        "details of MCom",
+        "Tell me about MCom"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Com. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_c_a",
+      "patterns": [
+        "What is M.C.A?",
+        "what is M.C.A",
+        "Details of M.C.A",
+        "details of M.C.A",
+        "Tell me about M.C.A",
+        "Information about M.C.A",
+        "M.C.A course details",
+        "M.C.A duration",
+        "How many semesters in M.C.A",
+        "MCA",
+        "mca",
+        "What is MCA?",
+        "what is MCA",
+        "Details of MCA",
+        "details of MCA",
+        "Tell me about MCA"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.C.A. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_b_a",
+      "patterns": [
+        "What is M.B.A?",
+        "what is M.B.A",
+        "Details of M.B.A",
+        "details of M.B.A",
+        "Tell me about M.B.A",
+        "Information about M.B.A",
+        "M.B.A course details",
+        "M.B.A duration",
+        "How many semesters in M.B.A",
+        "MBA",
+        "mba",
+        "What is MBA?",
+        "what is MBA",
+        "Details of MBA",
+        "details of MBA",
+        "Tell me about MBA"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.B.A. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_pg_m_a_english_batch_ii",
+      "patterns": [
+        "What is M.A English Batch II?",
+        "what is M.A English Batch II",
+        "Details of M.A English Batch II",
+        "details of M.A English Batch II",
+        "Tell me about M.A English Batch II",
+        "Information about M.A English Batch II",
+        "M.A English Batch II course details",
+        "M.A English Batch II duration",
+        "How many semesters in M.A English Batch II",
+        "MA English Batch II",
+        "ma english batch ii",
+        "What is MA English Batch II?",
+        "what is MA English Batch II",
+        "Details of MA English Batch II",
+        "details of MA English Batch II",
+        "Tell me about MA English Batch II"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.A English Batch II. It is a 2 year postgraduate course with 4 semesters."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_tamil",
+      "patterns": [
+        "What is M.Phil Tamil?",
+        "what is M.Phil Tamil",
+        "Details of M.Phil Tamil",
+        "details of M.Phil Tamil",
+        "Tell me about M.Phil Tamil",
+        "Information about M.Phil Tamil",
+        "M.Phil Tamil course details",
+        "M.Phil Tamil duration",
+        "How many semesters in M.Phil Tamil",
+        "MPhil Tamil",
+        "mphil tamil",
+        "What is MPhil Tamil?",
+        "what is MPhil Tamil",
+        "Details of MPhil Tamil",
+        "details of MPhil Tamil",
+        "Tell me about MPhil Tamil"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Tamil. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_english",
+      "patterns": [
+        "What is M.Phil English?",
+        "what is M.Phil English",
+        "Details of M.Phil English",
+        "details of M.Phil English",
+        "Tell me about M.Phil English",
+        "Information about M.Phil English",
+        "M.Phil English course details",
+        "M.Phil English duration",
+        "How many semesters in M.Phil English",
+        "MPhil English",
+        "mphil english",
+        "What is MPhil English?",
+        "what is MPhil English",
+        "Details of MPhil English",
+        "details of MPhil English",
+        "Tell me about MPhil English"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil English. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_mathematics",
+      "patterns": [
+        "What is M.Phil Mathematics?",
+        "what is M.Phil Mathematics",
+        "Details of M.Phil Mathematics",
+        "details of M.Phil Mathematics",
+        "Tell me about M.Phil Mathematics",
+        "Information about M.Phil Mathematics",
+        "M.Phil Mathematics course details",
+        "M.Phil Mathematics duration",
+        "How many semesters in M.Phil Mathematics",
+        "MPhil Mathematics",
+        "mphil mathematics",
+        "What is MPhil Mathematics?",
+        "what is MPhil Mathematics",
+        "Details of MPhil Mathematics",
+        "details of MPhil Mathematics",
+        "Tell me about MPhil Mathematics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Mathematics. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_physics",
+      "patterns": [
+        "What is M.Phil Physics?",
+        "what is M.Phil Physics",
+        "Details of M.Phil Physics",
+        "details of M.Phil Physics",
+        "Tell me about M.Phil Physics",
+        "Information about M.Phil Physics",
+        "M.Phil Physics course details",
+        "M.Phil Physics duration",
+        "How many semesters in M.Phil Physics",
+        "MPhil Physics",
+        "mphil physics",
+        "What is MPhil Physics?",
+        "what is MPhil Physics",
+        "Details of MPhil Physics",
+        "details of MPhil Physics",
+        "Tell me about MPhil Physics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Physics. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_chemistry",
+      "patterns": [
+        "What is M.Phil Chemistry?",
+        "what is M.Phil Chemistry",
+        "Details of M.Phil Chemistry",
+        "details of M.Phil Chemistry",
+        "Tell me about M.Phil Chemistry",
+        "Information about M.Phil Chemistry",
+        "M.Phil Chemistry course details",
+        "M.Phil Chemistry duration",
+        "How many semesters in M.Phil Chemistry",
+        "MPhil Chemistry",
+        "mphil chemistry",
+        "What is MPhil Chemistry?",
+        "what is MPhil Chemistry",
+        "Details of MPhil Chemistry",
+        "details of MPhil Chemistry",
+        "Tell me about MPhil Chemistry"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Chemistry. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_botany",
+      "patterns": [
+        "What is M.Phil Botany?",
+        "what is M.Phil Botany",
+        "Details of M.Phil Botany",
+        "details of M.Phil Botany",
+        "Tell me about M.Phil Botany",
+        "Information about M.Phil Botany",
+        "M.Phil Botany course details",
+        "M.Phil Botany duration",
+        "How many semesters in M.Phil Botany",
+        "MPhil Botany",
+        "mphil botany",
+        "What is MPhil Botany?",
+        "what is MPhil Botany",
+        "Details of MPhil Botany",
+        "details of MPhil Botany",
+        "Tell me about MPhil Botany"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Botany. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_zoology",
+      "patterns": [
+        "What is M.Phil Zoology?",
+        "what is M.Phil Zoology",
+        "Details of M.Phil Zoology",
+        "details of M.Phil Zoology",
+        "Tell me about M.Phil Zoology",
+        "Information about M.Phil Zoology",
+        "M.Phil Zoology course details",
+        "M.Phil Zoology duration",
+        "How many semesters in M.Phil Zoology",
+        "MPhil Zoology",
+        "mphil zoology",
+        "What is MPhil Zoology?",
+        "what is MPhil Zoology",
+        "Details of MPhil Zoology",
+        "details of MPhil Zoology",
+        "Tell me about MPhil Zoology"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Zoology. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_computer_science",
+      "patterns": [
+        "What is M.Phil Computer Science?",
+        "what is M.Phil Computer Science",
+        "Details of M.Phil Computer Science",
+        "details of M.Phil Computer Science",
+        "Tell me about M.Phil Computer Science",
+        "Information about M.Phil Computer Science",
+        "M.Phil Computer Science course details",
+        "M.Phil Computer Science duration",
+        "How many semesters in M.Phil Computer Science",
+        "MPhil Computer Science",
+        "mphil computer science",
+        "What is MPhil Computer Science?",
+        "what is MPhil Computer Science",
+        "Details of MPhil Computer Science",
+        "details of MPhil Computer Science",
+        "Tell me about MPhil Computer Science"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Computer Science. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_history",
+      "patterns": [
+        "What is M.Phil History?",
+        "what is M.Phil History",
+        "Details of M.Phil History",
+        "details of M.Phil History",
+        "Tell me about M.Phil History",
+        "Information about M.Phil History",
+        "M.Phil History course details",
+        "M.Phil History duration",
+        "How many semesters in M.Phil History",
+        "MPhil History",
+        "mphil history",
+        "What is MPhil History?",
+        "what is MPhil History",
+        "Details of MPhil History",
+        "details of MPhil History",
+        "Tell me about MPhil History"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil History. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_economics",
+      "patterns": [
+        "What is M.Phil Economics?",
+        "what is M.Phil Economics",
+        "Details of M.Phil Economics",
+        "details of M.Phil Economics",
+        "Tell me about M.Phil Economics",
+        "Information about M.Phil Economics",
+        "M.Phil Economics course details",
+        "M.Phil Economics duration",
+        "How many semesters in M.Phil Economics",
+        "MPhil Economics",
+        "mphil economics",
+        "What is MPhil Economics?",
+        "what is MPhil Economics",
+        "Details of MPhil Economics",
+        "details of MPhil Economics",
+        "Tell me about MPhil Economics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Economics. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_commerce",
+      "patterns": [
+        "What is M.Phil Commerce?",
+        "what is M.Phil Commerce",
+        "Details of M.Phil Commerce",
+        "details of M.Phil Commerce",
+        "Tell me about M.Phil Commerce",
+        "Information about M.Phil Commerce",
+        "M.Phil Commerce course details",
+        "M.Phil Commerce duration",
+        "How many semesters in M.Phil Commerce",
+        "MPhil Commerce",
+        "mphil commerce",
+        "What is MPhil Commerce?",
+        "what is MPhil Commerce",
+        "Details of MPhil Commerce",
+        "details of MPhil Commerce",
+        "Tell me about MPhil Commerce"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Commerce. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_mphil_m_phil_management",
+      "patterns": [
+        "What is M.Phil Management?",
+        "what is M.Phil Management",
+        "Details of M.Phil Management",
+        "details of M.Phil Management",
+        "Tell me about M.Phil Management",
+        "Information about M.Phil Management",
+        "M.Phil Management course details",
+        "M.Phil Management duration",
+        "How many semesters in M.Phil Management",
+        "MPhil Management",
+        "mphil management",
+        "What is MPhil Management?",
+        "what is MPhil Management",
+        "Details of MPhil Management",
+        "details of MPhil Management",
+        "Tell me about MPhil Management"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers M.Phil Management. It is an M.Phil programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_tamil",
+      "patterns": [
+        "What is Ph.D Tamil?",
+        "what is Ph.D Tamil",
+        "Details of Ph.D Tamil",
+        "details of Ph.D Tamil",
+        "Tell me about Ph.D Tamil",
+        "Information about Ph.D Tamil",
+        "Ph.D Tamil course details",
+        "Ph.D Tamil duration",
+        "How many semesters in Ph.D Tamil",
+        "PhD Tamil",
+        "phd tamil",
+        "What is PhD Tamil?",
+        "what is PhD Tamil",
+        "Details of PhD Tamil",
+        "details of PhD Tamil",
+        "Tell me about PhD Tamil"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Tamil. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_english",
+      "patterns": [
+        "What is Ph.D English?",
+        "what is Ph.D English",
+        "Details of Ph.D English",
+        "details of Ph.D English",
+        "Tell me about Ph.D English",
+        "Information about Ph.D English",
+        "Ph.D English course details",
+        "Ph.D English duration",
+        "How many semesters in Ph.D English",
+        "PhD English",
+        "phd english",
+        "What is PhD English?",
+        "what is PhD English",
+        "Details of PhD English",
+        "details of PhD English",
+        "Tell me about PhD English"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D English. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_history",
+      "patterns": [
+        "What is Ph.D History?",
+        "what is Ph.D History",
+        "Details of Ph.D History",
+        "details of Ph.D History",
+        "Tell me about Ph.D History",
+        "Information about Ph.D History",
+        "Ph.D History course details",
+        "Ph.D History duration",
+        "How many semesters in Ph.D History",
+        "PhD History",
+        "phd history",
+        "What is PhD History?",
+        "what is PhD History",
+        "Details of PhD History",
+        "details of PhD History",
+        "Tell me about PhD History"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D History. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_economics",
+      "patterns": [
+        "What is Ph.D Economics?",
+        "what is Ph.D Economics",
+        "Details of Ph.D Economics",
+        "details of Ph.D Economics",
+        "Tell me about Ph.D Economics",
+        "Information about Ph.D Economics",
+        "Ph.D Economics course details",
+        "Ph.D Economics duration",
+        "How many semesters in Ph.D Economics",
+        "PhD Economics",
+        "phd economics",
+        "What is PhD Economics?",
+        "what is PhD Economics",
+        "Details of PhD Economics",
+        "details of PhD Economics",
+        "Tell me about PhD Economics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Economics. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_mathematics",
+      "patterns": [
+        "What is Ph.D Mathematics?",
+        "what is Ph.D Mathematics",
+        "Details of Ph.D Mathematics",
+        "details of Ph.D Mathematics",
+        "Tell me about Ph.D Mathematics",
+        "Information about Ph.D Mathematics",
+        "Ph.D Mathematics course details",
+        "Ph.D Mathematics duration",
+        "How many semesters in Ph.D Mathematics",
+        "PhD Mathematics",
+        "phd mathematics",
+        "What is PhD Mathematics?",
+        "what is PhD Mathematics",
+        "Details of PhD Mathematics",
+        "details of PhD Mathematics",
+        "Tell me about PhD Mathematics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Mathematics. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_physics",
+      "patterns": [
+        "What is Ph.D Physics?",
+        "what is Ph.D Physics",
+        "Details of Ph.D Physics",
+        "details of Ph.D Physics",
+        "Tell me about Ph.D Physics",
+        "Information about Ph.D Physics",
+        "Ph.D Physics course details",
+        "Ph.D Physics duration",
+        "How many semesters in Ph.D Physics",
+        "PhD Physics",
+        "phd physics",
+        "What is PhD Physics?",
+        "what is PhD Physics",
+        "Details of PhD Physics",
+        "details of PhD Physics",
+        "Tell me about PhD Physics"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Physics. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_chemistry",
+      "patterns": [
+        "What is Ph.D Chemistry?",
+        "what is Ph.D Chemistry",
+        "Details of Ph.D Chemistry",
+        "details of Ph.D Chemistry",
+        "Tell me about Ph.D Chemistry",
+        "Information about Ph.D Chemistry",
+        "Ph.D Chemistry course details",
+        "Ph.D Chemistry duration",
+        "How many semesters in Ph.D Chemistry",
+        "PhD Chemistry",
+        "phd chemistry",
+        "What is PhD Chemistry?",
+        "what is PhD Chemistry",
+        "Details of PhD Chemistry",
+        "details of PhD Chemistry",
+        "Tell me about PhD Chemistry"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Chemistry. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_botany",
+      "patterns": [
+        "What is Ph.D Botany?",
+        "what is Ph.D Botany",
+        "Details of Ph.D Botany",
+        "details of Ph.D Botany",
+        "Tell me about Ph.D Botany",
+        "Information about Ph.D Botany",
+        "Ph.D Botany course details",
+        "Ph.D Botany duration",
+        "How many semesters in Ph.D Botany",
+        "PhD Botany",
+        "phd botany",
+        "What is PhD Botany?",
+        "what is PhD Botany",
+        "Details of PhD Botany",
+        "details of PhD Botany",
+        "Tell me about PhD Botany"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Botany. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_zoology",
+      "patterns": [
+        "What is Ph.D Zoology?",
+        "what is Ph.D Zoology",
+        "Details of Ph.D Zoology",
+        "details of Ph.D Zoology",
+        "Tell me about Ph.D Zoology",
+        "Information about Ph.D Zoology",
+        "Ph.D Zoology course details",
+        "Ph.D Zoology duration",
+        "How many semesters in Ph.D Zoology",
+        "PhD Zoology",
+        "phd zoology",
+        "What is PhD Zoology?",
+        "what is PhD Zoology",
+        "Details of PhD Zoology",
+        "details of PhD Zoology",
+        "Tell me about PhD Zoology"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Zoology. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_computer_science",
+      "patterns": [
+        "What is Ph.D Computer Science?",
+        "what is Ph.D Computer Science",
+        "Details of Ph.D Computer Science",
+        "details of Ph.D Computer Science",
+        "Tell me about Ph.D Computer Science",
+        "Information about Ph.D Computer Science",
+        "Ph.D Computer Science course details",
+        "Ph.D Computer Science duration",
+        "How many semesters in Ph.D Computer Science",
+        "PhD Computer Science",
+        "phd computer science",
+        "What is PhD Computer Science?",
+        "what is PhD Computer Science",
+        "Details of PhD Computer Science",
+        "details of PhD Computer Science",
+        "Tell me about PhD Computer Science"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Computer Science. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_management",
+      "patterns": [
+        "What is Ph.D Management?",
+        "what is Ph.D Management",
+        "Details of Ph.D Management",
+        "details of Ph.D Management",
+        "Tell me about Ph.D Management",
+        "Information about Ph.D Management",
+        "Ph.D Management course details",
+        "Ph.D Management duration",
+        "How many semesters in Ph.D Management",
+        "PhD Management",
+        "phd management",
+        "What is PhD Management?",
+        "what is PhD Management",
+        "Details of PhD Management",
+        "details of PhD Management",
+        "Tell me about PhD Management"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Management. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_phd_ph_d_commerce",
+      "patterns": [
+        "What is Ph.D Commerce?",
+        "what is Ph.D Commerce",
+        "Details of Ph.D Commerce",
+        "details of Ph.D Commerce",
+        "Tell me about Ph.D Commerce",
+        "Information about Ph.D Commerce",
+        "Ph.D Commerce course details",
+        "Ph.D Commerce duration",
+        "How many semesters in Ph.D Commerce",
+        "PhD Commerce",
+        "phd commerce",
+        "What is PhD Commerce?",
+        "what is PhD Commerce",
+        "Details of PhD Commerce",
+        "details of PhD Commerce",
+        "Tell me about PhD Commerce"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Ph.D Commerce. It is a Ph.D programme with a 1 year duration."
+      ]
+    },
+    {
+      "tag": "course_details_cop_air_ticketing_and_cargo_management",
+      "patterns": [
+        "What is Air-Ticketing and Cargo Management?",
+        "what is Air-Ticketing and Cargo Management",
+        "Details of Air-Ticketing and Cargo Management",
+        "details of Air-Ticketing and Cargo Management",
+        "Tell me about Air-Ticketing and Cargo Management",
+        "Information about Air-Ticketing and Cargo Management",
+        "Air-Ticketing and Cargo Management course details",
+        "Air-Ticketing and Cargo Management duration",
+        "How many semesters in Air-Ticketing and Cargo Management",
+        "Air-Ticketing and Cargo Management",
+        "air-ticketing and cargo management"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Air-Ticketing and Cargo Management. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_business_communication",
+      "patterns": [
+        "What is Business Communication?",
+        "what is Business Communication",
+        "Details of Business Communication",
+        "details of Business Communication",
+        "Tell me about Business Communication",
+        "Information about Business Communication",
+        "Business Communication",
+        "Business",
+        "How many semesters in Business Communication",
+        "business communication"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Business Communication. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_computational_biology",
+      "patterns": [
+        "What is Computational Biology?",
+        "what is Computational Biology",
+        "Details of Computational Biology",
+        "details of Computational Biology",
+        "Tell me about Computational Biology",
+        "Information about Computational Biology",
+        "Computational Biology course details",
+        "Computational Biology duration",
+        "How many semesters in Computational Biology",
+        "Computational Biology",
+        "computational biology"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Computational Biology. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_computer_aided_accounting",
+      "patterns": [
+        "What is Computer Aided Accounting?",
+        "what is Computer Aided Accounting",
+        "Details of Computer Aided Accounting",
+        "details of Computer Aided Accounting",
+        "Tell me about Computer Aided Accounting",
+        "Information about Computer Aided Accounting",
+        "Computer Aided Accounting ",
+        "Accounting",
+        "How many semesters in Computer Aided Accounting",
+        "Computer",
+        "computer aided accounting"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Computer Aided Accounting. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_entrepreneurship",
+      "patterns": [
+        "What is Entrepreneurship?",
+        "what is Entrepreneurship",
+        "Details of Entrepreneurship",
+        "details of Entrepreneurship",
+        "Tell me about Entrepreneurship",
+        "Information about Entrepreneurship",
+        "Entrepreneurship course details",
+        "Entrepreneurship duration",
+        "How many semesters in Entrepreneurship",
+        "Entrepreneurship",
+        "entrepreneurship"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Entrepreneurship. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_export_and_import_management",
+      "patterns": [
+        "What is Export and Import Management?",
+        "what is Export and Import Management",
+        "Details of Export and Import Management",
+        "details of Export and Import Management",
+        "Tell me about Export and Import Management",
+        "Information about Export and Import Management",
+        "Export and Import Management course details",
+        "Export and Import Management duration",
+        "How many semesters in Export and Import Management",
+        "Export and Import Management",
+        "export and import management"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Export and Import Management. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_graphics_for_visual_communication",
+      "patterns": [
+        "What is Graphics for Visual Communication?",
+        "what is Graphics for Visual Communication",
+        "Details of Graphics for Visual Communication",
+        "details of Graphics for Visual Communication",
+        "Tell me about Graphics for Visual Communication",
+        "Information about Graphics for Visual Communication",
+        "Graphics for Visual Communication course details",
+        "Graphics for Visual Communication duration",
+        "How many semesters in Graphics for Visual Communication",
+        "Graphics for Visual Communication",
+        "graphics for visual communication"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Graphics for Visual Communication. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_handicrafts",
+      "patterns": [
+        "What is Handicrafts?",
+        "what is Handicrafts",
+        "Details of Handicrafts",
+        "details of Handicrafts",
+        "Tell me about Handicrafts",
+        "Information about Handicrafts",
+        "Handicrafts course details",
+        "Handicrafts duration",
+        "How many semesters in Handicrafts",
+        "Handicrafts",
+        "handicrafts"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Handicrafts. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_herbal_science",
+      "patterns": [
+        "What is Herbal Science?",
+        "what is Herbal Science",
+        "Details of Herbal Science",
+        "details of Herbal Science",
+        "Tell me about Herbal Science",
+        "Information about Herbal Science",
+        "Herbal Science course details",
+        "Herbal Science duration",
+        "How many semesters in Herbal Science",
+        "Herbal Science",
+        "herbal science"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Herbal Science. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "course_details_cop_spoken_english",
+      "patterns": [
+        "What is Spoken English?",
+        "what is Spoken English",
+        "Details of Spoken English",
+        "details of Spoken English",
+        "Tell me about Spoken English",
+        "Information about Spoken English",
+        "Spoken English course details",
+        "Spoken English duration",
+        "How many semesters in Spoken English",
+        "Spoken English",
+        "spoken english"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Spoken English. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+  "tag": "course_details_cop_spoken_hindi",
+  "patterns": [
+    "What is Spoken Hindi?",
+    "what is Spoken Hindi",
+    "Details of Spoken Hindi",
+    "details of Spoken Hindi",
+    "Tell me about Spoken Hindi",
+    "Information about Spoken Hindi",
+    "Spoken Hindi course details",
+    "Spoken Hindi duration",
+    "How many semesters in Spoken Hindi",
+    "Spoken Hindi",
+    "spoken hindi"
+  ],
+  "responses": [
+    "Nesamony Memorial Christian College offers Spoken Hindi. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+  ]
+},
+{
+  "tag": "course_details_cop_driving",
+  "patterns": [
+    "What is Driving?",
+    "Driving course details",
+    "Tell me about Driving",
+    "Information about Driving",
+    "Driving duration",
+    "How many months in Driving",
+    "Driving program",
+    "Driving training"
+  ],
+  "responses": [
+    "Nesamony Memorial Christian College offers Driving as a COP programme. It usually lasts around 6 months, with practical and theoretical training, though duration may vary based on candidate completion time."
+  ]
+},
+    {
+      "tag": "course_details_cop_visual_communication",
+      "patterns": [
+        "What is Visual Communication?",
+        "what is Visual Communication",
+        "Details of Visual Communication",
+        "details of Visual Communication",
+        "Tell me about Visual Communication",
+        "Information about Visual Communication",
+        "Visual Communication course details",
+        "Visual Communication duration",
+        "How many semesters in Visual Communication",
+        "Visual Communication",
+        "visual communication"
+      ],
+      "responses": [
+        "Nesamony Memorial Christian College offers Visual Communication. It is a COP programme, usually around 6 months and may vary based on candidate completion time."
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_botany",
+      "patterns": [
+        "Botany",
+        "botany",
+        "Botany courses",
+        "list Botany courses",
+        "what Botany courses are available",
+        "details of Botany courses"
+      ],
+      "responses": [
+        "Botany programmes available at Nesamony Memorial Christian College:\n- B.Sc Botany\n- M.Sc Botany\n- M.Phil Botany\n- Ph.D Botany"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_business_administration",
+      "patterns": [
+        "Business Administration",
+        "business administration",
+        "Business Administration courses",
+        "list Business Administration courses",
+        "what Business Administration courses are available",
+        "details of Business Administration courses"
+      ],
+      "responses": [
+        "Business Administration programmes available at Nesamony Memorial Christian College:\n- B.B.A\n- M.B.A"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_chemistry",
+      "patterns": [
+        "Chemistry",
+        "chemistry",
+        "Chemistry courses",
+        "list Chemistry courses",
+        "what Chemistry courses are available",
+        "details of Chemistry courses"
+      ],
+      "responses": [
+        "Chemistry programmes available at Nesamony Memorial Christian College:\n- B.Sc Chemistry\n- M.Sc Chemistry\n- M.Phil Chemistry\n- Ph.D Chemistry"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_commerce",
+      "patterns": [
+        "Commerce",
+        "commerce",
+        "Commerce courses",
+        "list Commerce courses",
+        "what Commerce courses are available",
+        "details of Commerce courses"
+      ],
+      "responses": [
+        "Commerce programmes available at Nesamony Memorial Christian College:\n- B.Com\n- M.Com\n- M.Phil Commerce\n- Ph.D Commerce"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_computer_applications",
+      "patterns": [
+        "Computer Applications",
+        "computer applications",
+        "Computer Applications courses",
+        "list Computer Applications courses",
+        "what Computer Applications courses are available",
+        "details of Computer Applications courses"
+      ],
+      "responses": [
+        "Computer Applications programmes available at Nesamony Memorial Christian College:\n- B.C.A\n- M.C.A"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_computer_science",
+      "patterns": [
+        "Computer Science",
+        "computer science",
+        "Computer Science courses",
+        "list Computer Science courses",
+        "what Computer Science courses are available",
+        "details of Computer Science courses"
+      ],
+      "responses": [
+        "Computer Science programmes available at Nesamony Memorial Christian College:\n- B.Sc Computer Science (A)\n- B.Sc Computer Science (SF)\n- M.Sc Computer Science\n- M.Phil Computer Science\n- Ph.D Computer Science"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_economics",
+      "patterns": [
+        "Economics",
+        "economics",
+        "Economics courses",
+        "list Economics courses",
+        "what Economics courses are available",
+        "details of Economics courses"
+      ],
+      "responses": [
+        "Economics programmes available at Nesamony Memorial Christian College:\n- B.A Economics\n- M.A Economics\n- M.Phil Economics\n- Ph.D Economics"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_english",
+      "patterns": [
+        "English",
+        "english",
+        "English courses",
+        "list English courses",
+        "what English courses are available",
+        "details of English courses"
+      ],
+      "responses": [
+        "English programmes available at Nesamony Memorial Christian College:\n- B.A English (A)\n- B.A English (SF)\n- M.A English Batch I\n- M.A English Batch II\n- M.Phil English\n- Ph.D English"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_history",
+      "patterns": [
+        "History",
+        "history",
+        "History courses",
+        "list History courses",
+        "what History courses are available",
+        "details of History courses"
+      ],
+      "responses": [
+        "History programmes available at Nesamony Memorial Christian College:\n- B.A History (Tamil)\n- B.A History (English)\n- M.A History\n- M.Phil History\n- Ph.D History"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_management",
+      "patterns": [
+        "Management",
+        "management",
+        "Management courses",
+        "list Management courses",
+        "what Management courses are available",
+        "details of Management courses"
+      ],
+      "responses": [
+        "Management programmes available at Nesamony Memorial Christian College:\n- M.Phil Management\n- Ph.D Management"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_mathematics",
+      "patterns": [
+        "Mathematics",
+        "mathematics",
+        "Mathematics courses",
+        "list Mathematics courses",
+        "what Mathematics courses are available",
+        "details of Mathematics courses"
+      ],
+      "responses": [
+        "Mathematics programmes available at Nesamony Memorial Christian College:\n- B.Sc Mathematics (A)\n- B.Sc Mathematics (SF)\n- M.Sc Mathematics (A)\n- M.Sc Mathematics (SF)\n- M.Phil Mathematics\n- Ph.D Mathematics"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_physics",
+      "patterns": [
+        "Physics",
+        "physics",
+        "Physics courses",
+        "list Physics courses",
+        "what Physics courses are available",
+        "details of Physics courses"
+      ],
+      "responses": [
+        "Physics programmes available at Nesamony Memorial Christian College:\n- B.Sc Physics\n- M.Sc Physics (A)\n- M.Sc Physics (SF)\n- M.Phil Physics\n- Ph.D Physics"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_zoology",
+      "patterns": [
+        "Zoology",
+        "zoology",
+        "Zoology courses",
+        "list Zoology courses",
+        "what Zoology courses are available",
+        "details of Zoology courses"
+      ],
+      "responses": [
+        "Zoology programmes available at Nesamony Memorial Christian College:\n- B.Sc Zoology\n- M.Sc Zoology\n- M.Phil Zoology\n- Ph.D Zoology"
+      ]
+    },
+    {
+      "tag": "subject_courses_overview_tamil",
+      "patterns": [
+        "tamil",
+        "Tamil",
+        "tamil courses",
+        "Tamil courses",
+        "show tamil courses",
+        "list tamil courses"
+      ],
+      "responses": [
+        "Tamil programmes available at Nesamony Memorial Christian College:\n- B.A Tamil\n- M.A Tamil\n- M.Phil Tamil\n- Ph.D Tamil"
+      ]
+    }
+  ]
+}
